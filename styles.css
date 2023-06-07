@@ -10,7 +10,31 @@ a, a:hover, a:active, a:focus {
     font-family: 'Times New Roman', Times, serif;
 }
 
+.header {
+    font-size: x-large;
+    color: blueviolet;
+}
 img {
-    width: 100%;
+    width: 400px;
     height: auto;
+    float: left;
+    padding-right: 45px;
+    padding-left: 45px;
+    padding-bottom: 20px;
+}
+
+.description {
+    font-size: medium;
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.ingredients, .steps {
+    font-size: medium;
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
