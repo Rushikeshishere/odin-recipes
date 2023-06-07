@@ -9,3 +9,8 @@ a, a:hover, a:active, a:focus {
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
